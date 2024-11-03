@@ -10,14 +10,20 @@ You're a hotel manager, and you have tenants who live in your hotel, but there's
 
 ## Running
 
+### Releases
+
+You can download the latest releases from the [Releases](https://github.com/Nacroni/SpiderEvoSim/releases) page.
+
+### Manually
+
 This project built in [Processing](https://processing.org/) (specifically Processing 4), so you will need to [download Processing](https://processing.org/download) first before you do anything.
 
-### Steps
+#### Steps
 
 > [!IMPORTANT]
 > Make sure you have downloaded and installed [Processing 4](https://processing.org/download) beforehand, or else you will not be able to run the project.
 
-1. Open the Processing 4 executable file.
+1. Open Processing 4.
 2. ***Select the [`SpiderEvoSim`](/SpiderEvoSim.pde) file in Processing.*** <!-- I may come out as mean for saying this, but I can't get over how important this step is! Many people choose to open the room.pde file instead of the main SpiderEvoSim.pde! There's issues all over the original repo about it, and I feel bad that one guy [@hefnar] has to repeat himself in several of the issues related to this. -->
 3. Run using the button
 
